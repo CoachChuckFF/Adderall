@@ -1,8 +1,8 @@
 # Adderall
 This is a little script to move the mouse every X minutes to keep Microsoft Team Viewer's dot green. Oh and all of the programs and commands used here are things I use professionally, so it's safe!
 
-Love,
-Coach Chuck
+Love,  
+Coach Chuck  
 
 ## Installation
 
