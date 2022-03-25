@@ -1,4 +1,7 @@
-# Installation
+# Adderall
+This is a little script to move the mouse every X minutes to keep Microsoft Team Viewer's dot green.
+
+## Installation
 
 1. Install the following  
 [Node JS](https://nodejs.org/en/download)  
@@ -11,13 +14,13 @@
 `npm install -D tslib @types/node`  
 `npm i`  
 
-# Running Adderall On Terminal (Non Intrusive)
+## Running Adderall On Terminal (Non Intrusive)
 1. Open terminal
 2. Navigate to this directory
 3. Run `ts-node adderall.ts`
 4. To exit, in terminal ctrl+c
 
-# Running Adderall In VS Code (Easier?)
+## Running Adderall In VS Code (Easier?)
 1. Open VS Code
 2. Open this directory
 3. ctr+shift+` (control + shift + backtick => Opens the terminal)
